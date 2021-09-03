@@ -1243,7 +1243,7 @@ f .yzmplayer.yzmplayer-mobile .yzmplayer-controller .yzmplayer-icons .yzmplayer-
 	word-break: normal;
 	z-index: 2;
 	pointer-events: none;
-	background: url(../img/sign.png) no-repeat center;
+	background: url(../sign.png) no-repeat center;
 }
 
 .yzmplayer-controller .yzmplayer-bar-wrap .yzmplayer-bar-time.hidden {
